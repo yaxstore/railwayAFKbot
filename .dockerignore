@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.git/
+.gitignore
+.env
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.log
+token_cache.json
